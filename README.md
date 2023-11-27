@@ -1,5 +1,4 @@
-# This is the level 1 heading
-my first repo
+# This is an interesting titel
 
 
 
@@ -13,23 +12,23 @@ With an aura that oscillates between quiet introspection and vibrant enthusiasm,
 
 3. A random list of objects:
 
--Rubber duck
--Antique pocket watch
--Kaleidoscope
--Potted cactus
--Chess set
--Vintage typewriter
--Scented candles
--Binoculars
--Bamboo cutting board
--Feather quill pen
--Disco ball
--Wooden puzzle
--Crystal paperweight
--Electric guitar pick
--Seashell collection
--Miniature globe
--Tangled headphones
--Snow globe
--Leather-bound journal
--LED desk lamp
+- Rubber duck
+- Antique pocket watch
+- Kaleidoscope
+- Potted cactus
+- Chess set
+- Vintage typewriter
+- Scented candles
+- Binoculars
+- Bamboo cutting board
+- Feather quill pen
+- Disco ball
+- Wooden puzzle
+- Crystal paperweight
+- Electric guitar pick
+- Seashell collection
+- Miniature globe
+- Tangled headphones
+- Snow globe
+- Leather-bound journal
+- LED desk lamp
