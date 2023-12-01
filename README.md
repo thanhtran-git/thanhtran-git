@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthanhtran-git&count_bg=%2365E900&title_bg=%23808080&icon=&icon_color=%2300EA70&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 </div>
 
 ###
