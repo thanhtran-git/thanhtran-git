@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 📍 Berlin<br>- 📚 Creating bugs since 2023<br>- 🙋🏻‍♂️ Wannabe Web Dev in 2024</p>
+<p align="left">- 📍 Berlin<br>- 📚 Creating bugs since 2021<br>- 🙋🏻‍♂️ Wannabe Web Dev in 2024</p>
 
 ###
 
